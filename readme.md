@@ -1,3 +1,5 @@
-# Farin theme for Neovim
-Farin theme added into Neovim kinda
+# Farin theme (and more) for Neovim
+Farin theme for Kitty added into Neovim kinda
+Still a WIP
+
 Generated with vimcolors.org
