@@ -3,10 +3,11 @@
 " Created by  with ThemeCreator (https://github.com/mswift42/themecreator)
 hi clear Normal
 set bg&
+
 hi clear
 
 if exists("syntax on")
-syntax reset
+  syntax reset
 endif
 
 set t_Co=256
