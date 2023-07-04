@@ -2,11 +2,28 @@
 " helldunkel
 " Created by  with ThemeCreator (https://github.com/mswift42/themecreator)
 
+hi clear Normal
+set bg&
+
 hi clear
 
 if exists("syntax on")
-syntax reset
+  syntax reset
 endif
+hi Normal guibg=none ctermbg=none
+hi LineNr guibg=none ctermbg=none
+hi Folded guibg=none ctermbg=none
+hi NonText guibg=none ctermbg=none
+hi SpecialKey guibg=none ctermbg=none
+hi VertSplit guibg=none ctermbg=none
+hi SignColumn guibg=none ctermbg=none
+hi EndOfBuffer guibg=none ctermbg=none
+
+"hi clear
+
+"if exists("syntax on")
+"syntax reset
+"endif
 
 set t_Co=256
 let g:colors_name = "helldunkel3"

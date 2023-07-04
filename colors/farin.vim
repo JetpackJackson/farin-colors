@@ -5,6 +5,24 @@ let g:colors_name = "farin"
 set t_Co=256
 hi Normal guifg=#aaaaaa ctermbg=NONE guibg=#1e1e1e gui=NONE
 
+hi clear Normal
+set bg&
+
+hi clear
+
+if exists("syntax on")
+  syntax reset
+endif
+hi Normal guibg=none ctermbg=none
+hi LineNr guibg=none ctermbg=none
+hi Folded guibg=none ctermbg=none
+hi NonText guibg=none ctermbg=none
+hi SpecialKey guibg=none ctermbg=none
+hi VertSplit guibg=none ctermbg=none
+hi SignColumn guibg=none ctermbg=none
+hi EndOfBuffer guibg=none ctermbg=none
+
+
 hi DiffText guifg=#ff1155 guibg=NONE
 hi ErrorMsg guifg=#ff1155 guibg=NONE
 hi WarningMsg guifg=#ff1155 guibg=NONE
