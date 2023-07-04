@@ -3,7 +3,7 @@
 " Created by  with ThemeCreator (https://github.com/mswift42/themecreator)
 
 hi clear
-
+set bg&
 if exists("syntax on")
 syntax reset
 endif
