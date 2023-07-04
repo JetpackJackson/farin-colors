@@ -1,7 +1,7 @@
 hi clear
 syntax reset
 let g:colors_name = "farin"
-set background=dark
+"set background=dark
 set t_Co=256
 hi Normal guifg=#aaaaaa ctermbg=NONE guibg=#1e1e1e gui=NONE
 
