@@ -1,9 +1,10 @@
 " Vim color file
 " black
 " Created by  with ThemeCreator (https://github.com/mswift42/themecreator)
-
-hi clear
+hi clear Normal
 set bg&
+hi clear
+
 if exists("syntax on")
 syntax reset
 endif
