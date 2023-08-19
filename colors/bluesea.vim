@@ -29,7 +29,7 @@ hi cppOperator           guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 cter
 hi cppStatement          guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
 hi cppModifier           guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
 hi cppType               guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
-hi cppStorageClass       guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
+hi cppStorageClass       guisp=NONE guifg=#ffbe4f guibg=#1c1c1c ctermfg=215 ctermbg=234 gui=NONE cterm=NONE
 hi cppStructure          guisp=NONE guifg=#37f0e0 guibg=#1c1c1c ctermfg=86  ctermbg=234 gui=NONE cterm=NONE
 hi cppBoolean            guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
 hi cppConstant           guisp=NONE guifg=#ffffff guibg=#1c1c1c ctermfg=231 ctermbg=234 gui=NONE cterm=NONE
